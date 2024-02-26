@@ -1,0 +1,7 @@
+Employee ID:1
+Employee Name     :one
+Father's Name     :hello
+Employee Contact  :123456789
+Email Information :likithaega@gmail.com
+Employee position :manager
+Employee Salary   :50000
